@@ -6,10 +6,6 @@
   <img src="rainbow.gif" />
 </div>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=NokiaX300" />
-</div>
-
 <div align="center">
 <table>
   <tr>
@@ -20,4 +16,8 @@
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NokiaX300&theme=nightowl" />
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=NokiaX300" />
 </div>
