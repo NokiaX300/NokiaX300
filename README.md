@@ -6,6 +6,10 @@
   <img src="rainbow.gif" />
 </div>
 
+<div align="center">
+  <img src="senpai.jpg" />
+</div>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=NokiaX300" />
 </div>
